@@ -1,0 +1,19 @@
+.paragraph1 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.paragraph2 {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.confirm {
+    font-weight: bold;
+    color: white;
+    background-color:green;
+}
+
+.cancel {
+    background-color:white;
+}
