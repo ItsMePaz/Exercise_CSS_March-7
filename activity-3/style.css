@@ -1,0 +1,14 @@
+.one {
+    width: 200px;
+    height: auto;
+}
+
+.two {
+    width: 100px;
+    height: 300px;
+}
+
+.three,.four {
+    width: 300px;
+    height: auto;
+}
