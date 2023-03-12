@@ -17,3 +17,13 @@
 .cancel {
     background-color:white;
 }
+
+.thin {
+    font-weight: lighter;
+    line-height: 0px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 10px;
+}
