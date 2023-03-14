@@ -1,0 +1,11 @@
+.one {
+    background-color: black;
+    color: white;
+    border: 1px solid rgb(195, 188, 188);
+}
+
+.two {
+    background-color: yellow;
+    color: black;
+    border: 1px solid rgb(195, 188, 188);
+}
