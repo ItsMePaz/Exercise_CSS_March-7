@@ -1,0 +1,29 @@
+
+
+.one {
+    background-color: pink;
+    margin-bottom: 10px;
+}
+
+#two {
+    color: blue;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.three {
+    background-color: pink;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: limegreen;
+    font-size: 12px;
+}
+
+.five {
+    background-color: pink;
+    margin-top: 7px;
+}
